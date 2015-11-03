@@ -1,0 +1,1 @@
+This project allows you to get familiar with effects that can be achieved using force-based visualization of graphs. Sample code is written entirely in java.
